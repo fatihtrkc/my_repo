@@ -1,0 +1,43 @@
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe.config
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.pdb
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Form1.resources
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Properties.Resources.resources
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.GenerateResource.cache
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.CoreCompileInputs.cache
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.exe
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.pdb
+G:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.AssemblyReference.cache
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe.config
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.pdb
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.AssemblyReference.cache
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.SuggestedBindingRedirects.cache
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Form1.resources
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Properties.Resources.resources
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.GenerateResource.cache
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.CoreCompileInputs.cache
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.exe
+I:\Visual Studio projects\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.pdb
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe.config
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.pdb
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.AssemblyReference.cache
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.SuggestedBindingRedirects.cache
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Form1.resources
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Properties.Resources.resources
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.GenerateResource.cache
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.CoreCompileInputs.cache
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.exe
+I:\Visual Studio projects 2022\Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.pdb
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe.config
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.exe
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\bin\Debug\Knowledge Competition.pdb
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.AssemblyReference.cache
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Form1.resources
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge_Competition.Properties.Resources.resources
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.GenerateResource.cache
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.csproj.CoreCompileInputs.cache
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.exe
+C:\Users\yasumas\Desktop\C# Udemy\Murat Yücedağ - Uygulama Geliştirerek C# Öğrenin\1 - September 2021\Bölüm4 - Karar Yapıları\Knowledge Competition\obj\Debug\Knowledge Competition.pdb
